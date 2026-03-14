@@ -47,20 +47,6 @@ Building scalable backend systems and intelligent automation platforms using AI.
 - API Integrations
 - Automation Platforms
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
-### 🔥 Contribution Graph
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
-
----
-
 ### 📫 Connect With Me
 
 - Upwork
