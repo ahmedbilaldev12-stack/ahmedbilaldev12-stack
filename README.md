@@ -1,8 +1,10 @@
 # Ahmed Bilal
 
-Senior Full Stack Developer with 15+ years of experience building scalable backend systems, SaaS platforms, and AI powered applications.
+Senior Full Stack Developer, API architecture, and AI powered automation platforms.
 
-## Core Technologies
+I design and build scalable web applications while integrating modern AI capabilities into real production systems and business workflows.
+
+## Core Engineering Stack
 
 Laravel  
 PHP  
@@ -14,18 +16,19 @@ JavaScript
 
 ## AI & Automation
 
-OpenAI API integrations  
 AI workflow automation  
-Automation systems using APIs  
-AI powered business tools  
+OpenAI API integrations  
+AI powered document processing  
+Automation systems connected to business platforms and APIs  
 
-## Specializations
+## What I Build
 
-Backend architecture  
-Scalable API systems  
-SaaS platform development  
-AI integrations  
+Scalable backend systems  
+SaaS platforms and web applications  
+API driven architectures  
+AI powered automation systems  
+Intelligent workflow platforms
 
-## Experience
+## Focus
 
-I specialize in designing scalable backend systems using Laravel and PHP while integrating modern AI capabilities into production web applications and automation workflows.
+My work combines strong backend engineering with modern AI automation to build systems that reduce manual processes, integrate intelligent decision making, and scale business operations.
