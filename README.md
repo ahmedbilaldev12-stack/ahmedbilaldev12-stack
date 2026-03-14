@@ -1,16 +1,31 @@
-## Hi there 👋
+# Ahmed Bilal
 
-<!--
-**ahmedbilaldev12-stack/ahmedbilaldev12-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Developer with 15+ years of experience building scalable backend systems, SaaS platforms, and AI powered applications.
 
-Here are some ideas to get you started:
+## Core Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Laravel  
+PHP  
+MySQL  
+PostgreSQL  
+REST APIs  
+React  
+JavaScript  
+
+## AI & Automation
+
+OpenAI API integrations  
+AI workflow automation  
+Automation systems using APIs  
+AI powered business tools  
+
+## Specializations
+
+Backend architecture  
+Scalable API systems  
+SaaS platform development  
+AI integrations  
+
+## Experience
+
+I specialize in designing scalable backend systems using Laravel and PHP while integrating modern AI capabilities into production web applications and automation workflows.
