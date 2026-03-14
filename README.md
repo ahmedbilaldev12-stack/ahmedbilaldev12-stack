@@ -1,34 +1,68 @@
-# Ahmed Bilal
+<h1 align="center">Hi 👋, I'm Ahmed Bilal</h1>
+<h3 align="center">AI Automation Architect | Senior Full Stack Developer</h3>
 
-Senior Full Stack Developer, API architecture, and AI powered automation platforms.
+<p align="center">
+Building scalable backend systems and intelligent automation platforms using AI.
+</p>
 
-I design and build scalable web applications while integrating modern AI capabilities into real production systems and business workflows.
+---
 
-## Core Engineering Stack
+### 🚀 About Me
 
-Laravel  
-PHP  
-MySQL  
-PostgreSQL  
-REST APIs  
-React  
-JavaScript  
+- AI Automation Architect specializing in workflow automation and intelligent systems  
+- Senior Full Stack Developer with strong backend engineering expertise  
+- Experienced in building scalable APIs, SaaS platforms, and automation systems  
+- Focused on integrating AI into real production systems  
 
-## AI & Automation
+---
 
-AI workflow automation  
-OpenAI API integrations  
-AI powered document processing  
-Automation systems connected to business platforms and APIs  
+### 🧠 AI & Automation
 
-## What I Build
+- AI workflow automation using **n8n**
+- **OpenAI API integrations**
+- Intelligent document processing
+- AI powered business automation
+- Backend automation platforms
 
-Scalable backend systems  
-SaaS platforms and web applications  
-API driven architectures  
-AI powered automation systems  
-Intelligent workflow platforms
+---
 
-## Focus
+### 💻 Core Engineering Stack
 
-My work combines strong backend engineering with modern AI automation to build systems that reduce manual processes, integrate intelligent decision making, and scale business operations.
+- Laravel
+- PHP
+- MySQL
+- PostgreSQL
+- REST APIs
+- React
+- JavaScript
+
+---
+
+### 🛠 Tools & Platforms
+
+- n8n
+- OpenAI
+- GitHub
+- Replit
+- API Integrations
+- Automation Platforms
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+### 🔥 Contribution Graph
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+
+---
+
+### 📫 Connect With Me
+
+- Upwork
+- GitHub
+- LinkedIn
